@@ -1,0 +1,9 @@
+  
+Recuirements.txt   
+  
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
+tensorflow  
